@@ -1,0 +1,9 @@
+{
+    "modules": [
+        "login",
+        "main_navigation",
+        "dashboard",
+        "order_list",
+        "profile"
+    ]
+}
